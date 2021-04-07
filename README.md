@@ -1,6 +1,8 @@
 # ishafayet.github.io
 Public showcase of projects and experiments (mostly FOSS) by Sayem Shafayet ([iShafayet](https://github.com/iShafayet)).
 
+Reach out: [LinkedIn](https://www.linkedin.com/in/sayemshafayet/) | [Github](https://github.com/iShafayet)
+
 ## 🔷 Lipi for Business
 Lipi for Business, a SaaS mobile-first ERP solution, at peak serving 300+ medium size retailers, with an open source codebase. 
 
