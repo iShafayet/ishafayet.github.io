@@ -1,4 +1,4 @@
-# ishafayet.me
+<!-- # ishafayet.me -->
 
 Public showcase of projects and experiments (mostly FOSS) by Sayem Shafayet ([iShafayet](https://github.com/iShafayet)).
 
