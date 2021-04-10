@@ -13,9 +13,9 @@ Android app: [Get it on Google Play](https://play.google.com/store/apps/details?
 Source code: [Get it on Github](https://github.com/anvilglobaldynamics/torque) (GNU GPL V3)<br>
 
 
-## Developer utilities
+## Libraries & developer utilities
 
-Tools useful for developers that I have created/maintain:
+Libraries, modules, packages and tools useful for developers that I have created/maintain:
 
 ### 🔷 JSON R.E. Toolkit
 Reverse engineer JSON data to create Schema, Joi, Java POJOs, SQL tables, mongodb schemas etc.
@@ -42,12 +42,11 @@ Source code: [Get it on Github](https://github.com/iShafayet/promisekeeper) (MIT
 
 ### 🔷 Minor stuff
 
-* [justpub](https://github.com/iShafayet/justpub) - A command line tool to automate the process of publishing modules to the npm registry after automatically increasing the version number.
-* [baselib](https://github.com/iShafayet/baselib) - One-stop solution for essential utilities (i.e. async loops, conditions, pub/sub) for nodejs and the browser.
-* [node-astm](https://github.com/iShafayet/node-astm) - Read ASTM data from serial port.
 * [polymer-fx](https://github.com/iShafayet/polymer-fx) - An extremely low-footprint, compact complementary framework for Google's Polymer 2.x, based on webcomponents.
+* [baselib](https://github.com/iShafayet/baselib) - One-stop solution for essential utilities (i.e. async loops, conditions, pub/sub) for nodejs and the browser.
+* [node-astm](https://github.com/iShafayet/node-astm) - Read ASTM hardware data from serial port.
 * [line-ending-corrector](https://github.com/iShafayet/line-ending-corrector) - Line Ending Corrector - A utility that makes sure your files have consistent line endings.
-
+* [justpub](https://github.com/iShafayet/justpub) - A command line tool to automate the process of publishing modules to the npm registry after automatically increasing the version number.
 
 <br>
 
