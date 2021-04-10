@@ -45,7 +45,7 @@ Source code: [Get it on Github](https://github.com/iShafayet/promisekeeper) (MIT
 * [polymer-fx](https://github.com/iShafayet/polymer-fx) - An extremely low-footprint, compact complementary framework for Google's Polymer 2.x, based on webcomponents.
 * [baselib](https://github.com/iShafayet/baselib) - One-stop solution for essential utilities (i.e. async loops, conditions, pub/sub) for nodejs and the browser.
 * [node-astm](https://github.com/iShafayet/node-astm) - Read ASTM hardware data from serial port.
-* [line-ending-corrector](https://github.com/iShafayet/line-ending-corrector) - Line Ending Corrector - A utility that makes sure your files have consistent line endings.
+* [line-ending-corrector](https://github.com/iShafayet/line-ending-corrector) - A utility that makes sure your files have consistent line endings.
 * [justpub](https://github.com/iShafayet/justpub) - A command line tool to automate the process of publishing modules to the npm registry after automatically increasing the version number.
 
 <br>
