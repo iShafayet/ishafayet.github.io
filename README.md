@@ -12,6 +12,17 @@ Web site & app (PWA): [Visit www.lipi.live](https://lipi.live/) <br>
 Android app: [Get it on Google Play](https://play.google.com/store/apps/details?id=live.lipi.lipilite&hl=en&gl=US) <br>
 Source code: [Get it on Github](https://github.com/anvilglobaldynamics/torque) (GNU GPL V3)<br>
 
+<br/>
+
+## Small end-user products
+
+### 🔷 Realistic Investments
+Get thorough profit/depreciation calculation of investments and savings that takes inflation, taxes, and wealth taxes into account.
+
+Live SPA: [Visit /realistic-investments](https://ishafayet.me/realistic-investments) <br>
+Source code: [Get it on Github](https://github.com/iShafayet/realistic-investments) (MIT)
+
+<br/>
 
 ## Libraries & developer utilities
 
