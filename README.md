@@ -14,7 +14,7 @@ Source code: [Get it on Github](https://github.com/anvilglobaldynamics/torque) (
 
 <br/>
 
-## Small end-user products
+## Minor end-user products
 
 ### 🔷 Realistic Investments
 Get thorough profit/depreciation calculation of investments and savings that takes inflation, taxes, and wealth taxes into account.
