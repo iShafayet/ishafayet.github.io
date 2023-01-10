@@ -8,9 +8,17 @@ Reach out: [LinkedIn](https://www.linkedin.com/in/sayemshafayet/) &#124; [Github
 ## 🔷 Lipi for Business
 Lipi for Business, a SaaS mobile-first ERP solution, at peak serving 300+ medium size retailers, with an open source codebase. 
 
-Web site & app (PWA): [Visit www.lipi.live](https://lipi.live/) <br>
+Web site & app (PWA): [www.lipi.live](https://lipi.live/) <br>
 Android app: [Get it on Google Play](https://play.google.com/store/apps/details?id=live.lipi.lipilite&hl=en&gl=US) <br>
 Source code: [Get it on Github](https://github.com/anvilglobaldynamics/torque) (GNU GPL V3)<br>
+
+<br/>
+
+## 🔷 nkrypt.xyz
+Free and Open Source End-to-End encrypted, Self-hosted, Programmable Containers for everything you want to secure.
+
+Web site: [nkrypt.xyz](https://nkrypt.xyz/) <br>
+Source code: [Get it on Github](https://github.com/nkrypt-xyz) (GNU GPL V3)<br>
 
 <br/>
 
