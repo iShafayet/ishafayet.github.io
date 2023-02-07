@@ -20,7 +20,7 @@ Source code: [Get it on Github](https://github.com/nkrypt-xyz) (GNU GPL V3)<br>
 
 <br/>
 
-## Minor end-user products
+## Minor end-user tools
 
 ### 🔷 Realistic Investments
 Get thorough profit/depreciation calculation of investments and savings that takes inflation, taxes, and wealth taxes into account.
@@ -57,7 +57,22 @@ An industrial grade native promise scheduling library. Automatically limit the n
 
 Source code: [Get it on Github](https://github.com/iShafayet/promisekeeper) (MIT)
 
-### 🔷 Minor stuff
+
+<br/>
+
+## Whimsical 
+
+Things that were fun to create and aren't necessarily useful.
+
+### 🔷 Hṓra: The 100h Clock
+An alternative take on time keeping. Essentially, a thought experiment given shape: What if our timekeeping units were base 10 based. 
+
+Live SPA: [Visit /json-re](https://ishafayet.me/hora--the-100h-clock/) <br>
+Source code: [Get it on Github](https://github.com/iShafayet/hora--the-100h-clock) (GNU GPL V3)
+
+<br/>
+
+## Minor stuff
 
 * [polymer-fx](https://github.com/iShafayet/polymer-fx) - An extremely low-footprint, compact complementary framework for Google's Polymer 2.x, based on webcomponents.
 * [baselib](https://github.com/iShafayet/baselib) - One-stop solution for essential utilities (i.e. async loops, conditions, pub/sub) for nodejs and the browser.
