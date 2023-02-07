@@ -67,7 +67,7 @@ Things that were fun to create and aren't necessarily useful.
 ### 🔷 Hṓra: The 100h Clock
 An alternative take on time keeping. Essentially, a thought experiment given shape: What if our timekeeping units were base 10 based. 
 
-Live SPA: [Visit /json-re](https://ishafayet.me/hora--the-100h-clock/) <br>
+Live SPA: [Visit /hora--the-100h-clock](https://ishafayet.me/hora--the-100h-clock/) <br>
 Source code: [Get it on Github](https://github.com/iShafayet/hora--the-100h-clock) (GNU GPL V3)
 
 <br/>
