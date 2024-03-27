@@ -26,7 +26,8 @@ Source code: [Get it on Github](https://github.com/nkrypt-xyz) (GNU GPL V3)<br>
 Get thorough profit/depreciation calculation of investments and savings that takes inflation, taxes, and wealth taxes into account.
 
 Live SPA: [Visit /realistic-investments](https://ishafayet.me/realistic-investments) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/realistic-investments) (MIT)
+Source code: [Get it on Github](https://github.com/iShafayet/realistic-investments) (MIT) <br>
+Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.realisticinvestments.android)
 
 <br/>
 
@@ -38,7 +39,8 @@ Libraries, modules, packages and tools useful for developers that I have created
 Reverse engineer JSON data to create Schema, Joi, Java POJOs, SQL tables, mongodb schemas etc.
 
 Live SPA: [Visit /json-re](https://ishafayet.me/json-re) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/json-re) (MIT)
+Source code: [Get it on Github](https://github.com/iShafayet/json-re) (MIT) <br>
+Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.jsonre.android)
 
 ### 🔷 bsdiff-bspatch
 
@@ -68,7 +70,16 @@ Things that were fun to create and aren't necessarily useful.
 An alternative take on time keeping. Essentially, a thought experiment given shape: What if our timekeeping units were base 10 based. 
 
 Live SPA: [Visit /hora--the-100h-clock](https://ishafayet.me/hora--the-100h-clock/) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/hora--the-100h-clock) (GNU GPL V3)
+Source code: [Get it on Github](https://github.com/iShafayet/hora--the-100h-clock) (GNU GPL V3) <br>
+Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.hora.android)
+
+### 🔷 TrueCost: Visualize the true cost of your expenses
+Human beings are terrible at accurately gauging the true value of money. This app allows you to relate an amount to familiar items or expenses.
+
+Live SPA: [Visit /true-cost/](https://ishafayet.me/true-cost/) <br>
+Source code: [Get it on Github](https://github.com/iShafayet/true-cost/) (GNU GPL V3) <br>
+Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.truecost.android)
+
 
 <br/>
 
