@@ -1,101 +1,24 @@
 <!-- # ishafayet.me -->
 
-Public showcase of projects and experiments (mostly FOSS) by Sayem Shafayet ([iShafayet](https://github.com/iShafayet)).
+Hi there,
 
-Reach out: [LinkedIn](https://www.linkedin.com/in/sayemshafayet/) &#124; [Github](https://github.com/iShafayet)
+I’ve recently moved my portfolio.
 
+If you’re here on official business, please visit my portfolio at [sayemshafayet.com](https://sayemshafayet.com).
 
-## 🔷 Lipi for Business
-Lipi for Business, a SaaS mobile-first ERP solution, at peak serving 300+ medium size retailers, with an open source codebase. 
+If you want to check out my open source work, head over to my (recently revamped) GitHub profile at [github.com/ishafayet](https://github.com/iShafayet).
 
-Web site & app (PWA): [www.lipi.live](https://lipi.live/) <br>
-Android app: [Get it on Google Play](https://play.google.com/store/apps/details?id=live.lipi.lipilite&hl=en&gl=US) <br>
-Source code: [Get it on Github](https://github.com/anvilglobaldynamics/torque) (GNU GPL V3)<br>
+There’s also [LinkedIn](https://www.linkedin.com/in/sayemshafayet/) if you absolutely need to…
 
-## 🔷 nkrypt.xyz
-Free and Open Source End-to-End encrypted, Self-hosted, Programmable Containers for everything you want to secure.
+I sincerely look forward to hearing from you.
 
-Web site: [nkrypt.xyz](https://nkrypt.xyz/) <br>
-Source code: [Get it on Github](https://github.com/nkrypt-xyz) (GNU GPL V3)<br>
-
-<br/>
-
-## Minor end-user tools
-
-### 🔷 Realistic Investments
-Get thorough profit/depreciation calculation of investments and savings that takes inflation, taxes, and wealth taxes into account.
-
-Live SPA: [Visit /realistic-investments](https://ishafayet.me/realistic-investments) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/realistic-investments) (MIT) <br>
-Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.realisticinvestments.android)
-
-<br/>
-
-## Libraries & developer utilities
-
-Libraries, modules, packages and tools useful for developers that I have created/maintain:
-
-### 🔷 JSON R.E. Toolkit
-Reverse engineer JSON data to create Schema, Joi, Java POJOs, SQL tables, mongodb schemas etc.
-
-Live SPA: [Visit /json-re](https://ishafayet.me/json-re) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/json-re) (MIT) <br>
-Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.jsonre.android)
-
-### 🔷 bsdiff-bspatch
-
-`bsdiff` and `bspatch` are a pair of tools for building and applying patches to binary files. These are somewhat maintained forks of bsdiff and bspatch utilities (with a few pre-built binaries).
-
-Source code:: [Get it on Github](https://github.com/iShafayet/bsdiff-bspatch) (BSD 2-clause)
-
-<!-- ### 🔷 atomicdb
-A compact browser-based database engine that runs guaranteed atomic operations with additional support for encryption and compression.
-
-Source code: [Get it on Github](https://github.com/iShafayet/atomicdb) (MIT) -->
-
-### 🔷 promisekeeper
-
-An industrial grade native promise scheduling library. Automatically limit the number of promises running in parallel.
-
-Source code: [Get it on Github](https://github.com/iShafayet/promisekeeper) (MIT)
-
-
-<br/>
-
-## Whimsical 
-
-Things that were fun to create and aren't necessarily useful.
-
-### 🔷 Hṓra: The 100h Clock
-An alternative take on time keeping. Essentially, a thought experiment given shape: What if our timekeeping units were base 10 based. 
-
-Live SPA: [Visit /hora--the-100h-clock](https://ishafayet.me/hora--the-100h-clock/) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/hora--the-100h-clock) (GNU GPL V3) <br>
-Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.hora.android)
-
-### 🔷 TrueCost: Visualize the true cost of your expenses
-Human beings are terrible at accurately gauging the true value of money. This app allows you to relate an amount to familiar items or expenses.
-
-Live SPA: [Visit /true-cost/](https://ishafayet.me/true-cost/) <br>
-Source code: [Get it on Github](https://github.com/iShafayet/true-cost/) (GNU GPL V3) <br>
-Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=me.ishafayet.truecost.android)
-
-
-<br/>
-
-## Minor stuff
-
-* [polymer-fx](https://github.com/iShafayet/polymer-fx) - An extremely low-footprint, compact complementary framework for Google's Polymer 2.x, based on webcomponents.
-* [baselib](https://github.com/iShafayet/baselib) - One-stop solution for essential utilities (i.e. async loops, conditions, pub/sub) for nodejs and the browser.
-* [node-astm](https://github.com/iShafayet/node-astm) - Read ASTM hardware data from serial port.
-* [line-ending-corrector](https://github.com/iShafayet/line-ending-corrector) - A utility that makes sure your files have consistent line endings.
-* [justpub](https://github.com/iShafayet/justpub) - A command line tool to automate the process of publishing modules to the npm registry after automatically increasing the version number.
-
-<br>
+<p>
+- Shafayet
+</p>
 
 ---
 
 **Note**: ishafayet.github.io redirects here.
 
-2021 © Sayem Shafayet
+2021-Present © Sayem Shafayet
 
