@@ -8,7 +8,7 @@ If you’re here on official business, please visit my portfolio at [sayemshafay
 
 If you want to check out my open source work, head over to my (recently revamped) GitHub profile at [github.com/ishafayet](https://github.com/iShafayet).
 
-There’s also [LinkedIn](https://www.linkedin.com/in/sayemshafayet/) if you absolutely need to…
+There’s also [LinkedIn](https://www.linkedin.com/in/sayemshafayet/) if you prefer that.
 
 I sincerely look forward to hearing from you.
 
